@@ -1,4 +1,4 @@
-package com.fileshares3.fileshares3;
+package com.fileshares3;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
