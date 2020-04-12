@@ -1,4 +1,4 @@
-package com.fileshares3.fileshares3;
+package com.fileshares3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
